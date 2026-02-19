@@ -4,53 +4,53 @@
 This project focuses on analyzing an IMDB movie dataset to extract meaningful insights about movie success.The dataset includes attributes such as ratings, genre, budget, gross income, directors, and actors.The goal is to understand the factors that influence movie performance, profitability, and audience reception.
 
 ## Objectives
--Clean and preprocess raw movie data
+- Clean and preprocess raw movie data
 
--Identify highest-grossing movies and top-rated films
+- Identify highest-grossing movies and top-rated films
 
--Analyze genre popularity and trends
+- Analyze genre popularity and trends
 
--Discover factors influencing movie success
+- Discover factors influencing movie success
 
--Generate visual insights using data visualization
+- Generate visual insights using data visualization
 
 ## Tools & Technologies Used
--Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
--Matplotlib / Seaborn for visualization
+- Matplotlib / Seaborn for visualization
 
--MySQL (for structured data storage)
+- MySQL (for structured data storage)
 
--Jupyter Notebook
+- Jupyter Notebook
 
 ## Dataset Information
 
 The dataset contains IMDB movie metadata including:
 
--MovieID
--Movie Title
--Genre
--Rating
--Budget Million
--Gross Million
--Director
--Lead Actor
--Release Year
+- MovieID
+- Movie Title
+- Genre
+- Rating
+- Budget Million
+- Gross Million
+- Director
+- Lead Actor
+- Release Year
 
 ## Data Cleaning & ETL Process
 The following transformations were applied:
--Removed duplicate records using title + year
--Handled missing values in budget and gross columns
--Converted data types for analysis
--Filtered out irrelevant or incomplete records
--Standardized column naming conventions
+- Removed duplicate records using title + year
+- Handled missing values in budget and gross columns
+- Converted data types for analysis
+- Filtered out irrelevant or incomplete records
+- Standardized column naming conventions
 
 ## Analysis Performed
--Top 10 movies based on IMDB rating
--Show rating distribution across genres.
--Find Top 5 directors by average movie rating.
--Analyze budget vs gross correlation.
--Identify most profitable genre.
+- Top 10 movies based on IMDB rating
+- Show rating distribution across genres.
+- Find Top 5 directors by average movie rating.
+- Analyze budget vs gross correlation.
+- Identify most profitable genre.
 
 ## Visualizations
 <img width="902" height="507" alt="image" src="https://github.com/user-attachments/assets/4ee9553a-e7a1-47f9-a7ee-e841354c1f72" />
