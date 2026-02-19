@@ -53,8 +53,13 @@ The following transformations were applied:
 - Identify most profitable genre.
 
 ## Visualizations
+1.Identify Top 10 highest grossing movies by year using Line Chart
 <img width="902" height="507" alt="image" src="https://github.com/user-attachments/assets/4ee9553a-e7a1-47f9-a7ee-e841354c1f72" />
+2.Show rating distribution across genre using Pie Chart
 <img width="799" height="651" alt="image" src="https://github.com/user-attachments/assets/1331b49f-731b-4e7f-a25f-5228dbb08d7a" />
+3.Find Top 5 directors by average movie rating using Bar Chart
 <img width="835" height="535" alt="image" src="https://github.com/user-attachments/assets/8de2856c-bb17-4a66-acbd-507f72c36ded" />
+4.Analyze budget vs gross correlation using Scatter Plot
 <img width="848" height="556" alt="image" src="https://github.com/user-attachments/assets/5c337a1a-e0e3-4da4-891d-623271def16e" />
+5.Identify most profitable genre using Bar Chart
 <img width="827" height="540" alt="image" src="https://github.com/user-attachments/assets/62fe1150-c6dc-4534-8184-03ea6f6cc959" />
